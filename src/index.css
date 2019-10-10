@@ -1,0 +1,89 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+.Registration, .Login {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.fields {
+	margin: 10px;
+}
+.buttons button {
+	margin: 10px;
+}
+.message {
+	padding: 5px;
+}
+.error {
+	border: solid #ec5555 2px;
+}
+
+.search-block {
+	padding: 20px 15px 15px;
+	background: #f0f0f0;
+	width: 100%;
+	border-radius: 10px;
+}
+
+.add-remove p {
+	font-size: 28px;
+	font-weight: bold;
+	color: #069;
+	cursor: pointer;
+}
+
+.radio-block {
+	margin-bottom: 25px !important;
+}
+
+.submit-block button {
+	margin-right: 15px;
+}
+
+.errors {
+	color: #a94442;
+	font-weight: bold;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.in-sec {
+	padding-top: 7px;
+}
+
+.results-wrapper {
+	padding: 20px 15px 15px;
+}
+
+.article {
+	padding: 10px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.dataTables_filter {
+	float: right;
+}
+
+.dataTables_paginate .pagination {
+	float: right;
+}
+
+.mg-rt-5 {
+	margin-right: 8px !important;
+    display: inline-block;
+}
