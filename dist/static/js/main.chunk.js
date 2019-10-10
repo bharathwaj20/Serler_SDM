@@ -68,7 +68,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Login__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Login */ "./src/components/Login.js");
 /* harmony import */ var _Search__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Search */ "./src/components/Search.js");
 /* harmony import */ var _Registration__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Registration */ "./src/components/Registration.js");
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\components\\App.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\components\\App.js";
 
 
 
@@ -157,7 +157,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _elements_Message__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../elements/Message */ "./src/elements/Message.js");
 /* harmony import */ var _elements_Error__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../elements/Error */ "./src/elements/Error.js");
 /* harmony import */ var _MessageBundle__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../MessageBundle */ "./src/MessageBundle.js");
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\components\\Login.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\components\\Login.js";
 
 
 
@@ -351,7 +351,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _elements_Message__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../elements/Message */ "./src/elements/Message.js");
 /* harmony import */ var _elements_Error__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../elements/Error */ "./src/elements/Error.js");
 /* harmony import */ var _MessageBundle__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../MessageBundle */ "./src/MessageBundle.js");
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\components\\Registration.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\components\\Registration.js";
 
 
 
@@ -627,7 +627,7 @@ class Registration extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Search; });
-/* harmony import */ var C_Users_svsan_Documents_Learnings_SDM_Serler_ieee_explore_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/babel-preset-react-app/node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/babel-preset-react-app/node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var C_Users_svsan_Documents_Learnings_SDM_SDM_Serler_Serler_SDM_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/babel-preset-react-app/node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/babel-preset-react-app/node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var formik__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! formik */ "./node_modules/formik/dist/formik.esm.js");
@@ -637,7 +637,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var mdbreact__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! mdbreact */ "./node_modules/mdbreact/dist/mdbreact.esm.js");
 
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\components\\Search.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\components\\Search.js";
 
 
 
@@ -720,7 +720,7 @@ class Search extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
         });
       });
       this.setState(prevState => ({
-        articles: Object(C_Users_svsan_Documents_Learnings_SDM_Serler_ieee_explore_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, prevState.articles, {
+        articles: Object(C_Users_svsan_Documents_Learnings_SDM_SDM_Serler_Serler_SDM_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, prevState.articles, {
           // keep all other key-value pairs
           rows: data // update the value of specific key
 
@@ -1569,7 +1569,7 @@ class Search extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\elements\\Error.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\elements\\Error.js";
 
 
 const Error = ({
@@ -1619,7 +1619,7 @@ const Error = ({
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\elements\\Message.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\elements\\Message.js";
 
 
 const Message = ({
@@ -1731,7 +1731,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var bootstrap_dist_css_bootstrap_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.css */ "./node_modules/bootstrap/dist/css/bootstrap.css");
 /* harmony import */ var bootstrap_dist_css_bootstrap_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_css__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\Serler\\ieee-explore\\src\\index.js";
+var _jsxFileName = "C:\\Users\\svsan\\Documents\\Learnings\\SDM\\SDM_Serler\\Serler_SDM\\src\\index.js";
 
 
 
@@ -1801,7 +1801,7 @@ const UsernameValidation = data => axios__WEBPACK_IMPORTED_MODULE_0___default.a.
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\svsan\Documents\Learnings\SDM\Serler\ieee-explore\src\index.js */"./src/index.js");
+module.exports = __webpack_require__(/*! C:\Users\svsan\Documents\Learnings\SDM\SDM_Serler\Serler_SDM\src\index.js */"./src/index.js");
 
 
 /***/ }),
